@@ -19,6 +19,7 @@ body {
 .page-description {
 
     padding-left: 64px;
+    color: rgba(255, 255, 255, 0.6);
 
 }
 
@@ -72,6 +73,7 @@ body {
 .video-title {
 
     margin: 8px 0 12px;
+    color: white;
 
 }
 
@@ -94,19 +96,9 @@ body {
 
     text-align: right;
     display: block;
-
-}
-
-p {
-    color: rgba(255, 255, 255, 0.6);
-}
-
-section div h1 { 
-    color: white;
-}
-
-section div time {
     color: rgba(255, 255, 255, 0.4); 
     font-size: 12px;
+
 }
+
 
